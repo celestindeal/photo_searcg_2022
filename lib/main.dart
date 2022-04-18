@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:photo_search_2022/page/MainPage.dart';
 import 'dart:math' as math;
 
 import 'package:photo_search_2022/const.dart';
+import 'package:photo_search_2022/page/MainPage.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
